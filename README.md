@@ -22,3 +22,9 @@ This is a group project made in c#
 * Unit testing
   * Easy to use, build the project and in the test explorer you chose the 5 tests which have been made.
   * Purchasing, Money insertion, End transaction, Invalid denominations and insufficient funds.  
+
+
+* Video demonstrating Unit Tests
+  
+https://github.com/Devflasher293/VendingMachine/assets/75735872/6edf81b9-f367-4dc2-bb98-bcbfd01f0206
+
