@@ -2,6 +2,7 @@
 This is a group project made in c# 
 
 
+* Put the two folders into one folder and start the solution from (VendingMachine) folder.
 * This version includes xUnit tests and is included in the same solution as the main project.
 * User instructions are pretty self explanatory and easy to use. 
 * Code is commented for easier understanding. 
